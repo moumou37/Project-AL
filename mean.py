@@ -1,4 +1,4 @@
-#Print the mean of the numbers given in a file
+
 
 import sys
 
@@ -11,4 +11,4 @@ for num in open('data.txt'):
 
 print sum / n
 
-
+#print the mean of the numbers givin in a file
