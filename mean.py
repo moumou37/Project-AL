@@ -11,8 +11,8 @@ for num in sys.stdin:
 
 print sum / n
 
-abcdefg
+#abcdefg
 
-jjjjjjjjjjjj
+#jjjjjjjjjjjj
 
-:wq
+#:wq
