@@ -13,6 +13,6 @@ print sum / n
 
 abcdefg
 
-
+jjjjjjjjjjjj
 
 :wq
