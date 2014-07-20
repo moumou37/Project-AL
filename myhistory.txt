@@ -1,0 +1,259 @@
+    1  python
+    2  sho am i
+    3  whoami
+    4  clear
+    5  pwd
+    6  ls
+    7  ls -F
+    8  cd whatami
+    9  cd Dropbox
+   10  pwd
+   11  cd Downloads
+   12  pwd
+   13  ls -A
+   14  ls -F
+   15  ls
+   16  cd airanliu
+   17  pwd
+   18  cd
+   19  .
+   20  ..
+   21  .
+   22  pwd
+   23  ..
+   24  cd Dropbox
+   25  ..
+   26  cd Dropbox
+   27  ls -F
+   28  .
+   29  cd
+   30  .
+   31  cd
+   32  cd Dropbox/Apps
+   33  pwd
+   34  ..
+   35  .
+   36  pwd
+   37  .
+   38  pwd
+   39  cd
+   40  .
+   41  pwd
+   42  q
+   43  q
+   44  .
+   45  ..
+   46  pwd
+   47  cd Dropbox
+   48  pwd
+   49  cd
+   50  .
+   51  pwd
+   52  //help
+   53  \\help
+   54  ls--help
+   55  ls -help
+   56  ls --help
+   57  ls ../Dropbox
+   58  pwd
+   59  cd -
+   60  cd
+   61  cd -
+   62  pwd
+   63  cd -
+   64  cd -
+   65  cd -
+   66  clear
+   67  nano
+   68  nano
+   69  ls
+   70  nano
+   71  ls hello
+   72  ls hello.txt
+   73  rm hello.txt
+   74  ls hello.txt
+   75  nano
+   76  nano
+   77  nano
+   78  ls hello.txt
+   79  ls hello1.txt
+   80  nano hello1.txt
+   81  mv hello2.txt hello1.txt
+   82  ls
+   83  rm hello1.txt
+   84  ls
+   85  nano
+   86  mv hello.txt Dropbox
+   87  ls \Dropbox
+   88  pwd
+   89  ls /Dropbox
+   90  ls \Dropbox
+   91  ls hello.txt
+   92  ls /Dropbox
+   93  ls \Dropbox
+   94  mv hello.txt/Dropbox $airanliu
+   95  ls
+   96  cd
+   97  pwd
+   98  mv Dropbox/hello.txt .
+   99  ls
+  100  rm hello
+  101  rm hello.txt
+  102  ls \Dropbox
+  103  ls /Dropbox
+  104  ls Dropbox/
+  105  ls \Dropbox
+  106  ls Dropbox/
+  107  wc 瑶山夜歌\Dropbox
+  108  wc 瑶山夜歌.docx\Dropbox
+  109  wc Dropbox/瑶山夜歌.docx
+  110  head Dropbox/瑶山夜歌.docx
+  111  clear
+  112  ls
+  113  ls Dropboxls /Dropbox
+  114  ls Dropbox
+  115  head SOC630.docx/Dropbox
+  116  head Dropbox\SOC630.docx
+  117  head SOC630/Dropbox
+  118  head SOC 630/Dropbox
+  119  head Dropbox\Getting Started.pdf
+  120  clear
+  121  echo "hello there"
+  122  echo "hello there">file.txt
+  123  ls file.txt
+  124  "hello">>file.txt
+  125  echo "hello">>file.txt
+  126  cat fild.txt
+  127  cat file.txt
+  128  wc file.txt
+  129  head file.txt
+  130  head file.txt|sort
+  131  -r
+  132  head file.txt|sort -r
+  133  rm file.txt
+  134  clear
+  135  i python
+  136  ipython
+  137  ipython notebook
+  138  mkdir jul19
+  139  cd jul19
+  140  ipython notebook
+  141  ipython notebook
+  142  pwd
+  143  cd jul19
+  144  pwd
+  145  ipython notebook
+  146  ipython notebook
+  147  clear
+  148  pwd
+  149  cd jul19
+  150  cd
+  151  -.
+  152  cd
+  153  pwd
+  154  cd jul19
+  155  ipython notebook
+  156  clear
+  157  nano
+  158  ipython notebook
+  159  clear
+  160  pwd
+  161  pwd
+  162  pw
+  163  cd '/Users/airanliu/Box Documents/Academic-Copy of(airanliu@umich.edu)/Programming/Python/capentry+bootcamp/jul19 '
+  164  cd /Users/airanliu/Box Documents/Academic-Copy of(airanliu@umich.edu)/Programming/Python/capentry+bootcamp/jul19
+  165  /Box Documents/Academic-Copy of(airanliu@umich.edu)/Programming/Python/capentry+bootcamp/jul19
+  166  pwd
+  167  cd /Box Documents
+  168  Box Documents
+  169  Box_Documents
+  170  cd Box Documents
+  171  cd Dropbox
+  172  cd Box\ Documents
+  173  cd \Dropbox
+  174  cd Box_Documents
+  175  cd Box Documents/
+  176  cd~/Box\Documents
+  177  cd
+  178  cd ~/Box\ Documents
+  179  cd ~/Box\ Documents/Academic-Copy of(airanliu@umich.edu)/Programming/Python/capentry+bootcamp/jul19
+  180  ~/Box\ Documents/Academic/Programming/Python/capentry+bootcamp/jul19
+  181  cd ~\Box/ Documents/Academic\ -\ Copy(airanliu@umich.edu)/Programming/Python/capentry+bootcam/jul19
+  182  cd ~\Box/ Documents/Academic\ -\ Copy\(airanliu\@umich.edu\)/Programming/Python/capentry\+bootcamp/jul19
+  183  ~\Box/ Documents/jul19
+  184  ~/Box\ Documents
+  185  ~/Box\ Documents/Academic\ \-\ Copy\(airanliu\@umich\.edu\)/
+  186  ~/Box\ Documents/jul19
+  187  pwd
+  188  cd~/Box\ Documents/jul19 
+  189  cd ~/Box\ Documents/jul19
+  190  cd
+  191  cd ~/Box\ Documents/jul19
+  192  pwd
+  193  ipython notebook
+  194  clear
+  195  pwd
+  196  ls -Replication 2.py
+  197  ls -Replication/ 2
+  198  python Replication\ 2
+  199  ls Replication\ 2.py
+  200  python Replication\ 2.py
+  201  which git
+  202  git config --global user.name"Airan Liu"
+  203  git git config --global user.name "airan liu"
+  204  git config --global user.name "airan liu"
+  205  git config --global user.email "airanliu@umich.edu"
+  206  nano vim mean.py
+  207  ipython notebook
+  208  clear
+  209  python | python mean.py
+  210  nano
+  211  nano
+  212  cat data.txt | python mean.py
+  213  cat data.txt
+  214  cat mean.py
+  215  pwd
+  216  mkdir ~/Box\ Documents/project-AL
+  217  pwd
+  218  cd ~/Box\ Documents/project-AL
+  219  ls
+  220  mv data.txt project-AL/
+  221  cd
+  222  mv data.txt project-AL
+  223  mv mean.py  project-AL/
+  224  mv mean.py Box\ Documents/project-AL/
+  225  ls Box\ Documents/project-AL/
+  226  mv project-AL data.txt
+  227  mv data.txt Box\ Documents/project-AL/
+  228  ls Box\ Documents/project-AL/
+  229  cd Box\ Documents/project-AL/
+  230  git init
+  231  git add mean.py
+  232  git add data.txt
+  233  hitory> myhistory.txt
+  234  history > myhistory.txt
+  235  # comment
+  236  ls -a
+  237  git commit -am "Add initial files to project"
+  238  git log #look at the history
+  239  vim mean.py
+  240  ls mean.py
+  241  vim mean.py
+  242  add initial files to project
+  243  git commit -am "Add initial files to project"
+  244  mean.py
+  245  vim mean.py
+  246  vim mean.py
+  247  git commit -am "Add initial files to project"
+  248  cat mean.py
+  249  git log
+  250  git status
+  251  git status
+  252  ls
+  253  vim mean.py
+  254  git commit -am "Add initial files to project"
+  255  git log
+  256  git diff a7db614a d48100d2
+  257  # the difference between two documen
+  258  git diff d48100d2 a7db614a
+  259  history >myhistory.txt
